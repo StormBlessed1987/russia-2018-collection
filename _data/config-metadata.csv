@@ -3,10 +3,19 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
+classification,Classification,
 subject,Subjects,true
+keywords,Keywords
 location,Location
 latitude,Latitude
 longitude,Longitude
+medium,Medium,
+relation,Relation,
+language,Language,
+duration,Duration,
+file_size,File_Size,
+dimensions_surrogate,Dimensions_Surrogate,
+dimensions_real,Dimensions_Real,
 source,Source
 identifier,Source Identifier,,
 type,Type,
