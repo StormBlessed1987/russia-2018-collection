@@ -5,7 +5,7 @@ date,Date Created,
 description,Description,
 classification,Classification,
 subject,Subjects,true
-keywords,Keywords
+keywords,Keywords,true
 location,Location
 latitude,Latitude
 longitude,Longitude
